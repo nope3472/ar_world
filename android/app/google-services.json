@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495680060230",
+    "project_id": "ar-world-be67a",
+    "storage_bucket": "ar-world-be67a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495680060230:android:ad0f5ef2c942aa1c3a0347",
+        "android_client_info": {
+          "package_name": "com.Vivek.ar_world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg9wdpI-ohM0i7J6AOyBXz9PjohfUjNpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
