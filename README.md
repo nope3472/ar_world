@@ -1,4 +1,4 @@
-# AR Furniture World 🌍
+# AR World 🌍
 
 **AR Furniture World** is an innovative Augmented Reality (AR) app built with Flutter using the `ar_flutter_plugin`. The app allows users to upload photos to Firebase, automatically removes the background of the photos using the [remove.bg API](https://www.remove.bg/pricing), and provides the ability to dynamically adjust the size, position, and rotation of objects in an AR environment.
 
