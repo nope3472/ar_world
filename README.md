@@ -46,14 +46,17 @@ Copy code
 flutter run
 Usage 🛠️
 ## Screenshots 📸
+<img src="https://github.com/user-attachments/assets/abe15290-6a19-4d37-8ecf-662ec1d5f04e" width =120 height=250/>
+<img src="https://github.com/user-attachments/assets/76574a3e-9ae1-4bf8-bc36-b5f4e908868c" width =120 height=250/>
+<img src="https://github.com/user-attachments/assets/b4716f29-b8f9-41da-81db-da8c8e7c551d" width =120 height=250/>
 
 
 
-## Demo Video 🎥
+
+https://github.com/user-attachments/assets/0ebea1d9-5147-4a78-9050-59c0b693ab62
 
 
 
-[![Watch the video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
 
 ## Built With 🛠️
 
